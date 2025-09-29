@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/b08bb6760d1b6833edc4cc3519fcf7c9_Newfinal_report.pdf
 file_size: 9402277
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

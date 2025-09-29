@@ -4,6 +4,8 @@ description: Instructions for Assignment 2a.
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/77fe5999afaa1186090c195f2767d814_assignment2a.pdf
 file_size: 16514
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

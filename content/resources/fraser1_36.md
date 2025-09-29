@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/9e818774c2fcffcecc3c702dde0f15d7_fraser1_36.pdf
 file_size: 2474061
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -3,6 +3,8 @@ content_type: page
 description: In addition to the nine assignments listed below, students are graded
   on Participation, Reflection Journal entries and Sessions, comprising 10% of their
   grade.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

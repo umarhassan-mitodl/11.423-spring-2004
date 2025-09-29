@@ -4,6 +4,8 @@ description: Example final project (Part 1).
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/cf3da1c54bc0e1ec1a712aa56327761e_a_newfin_rep.pdf
 file_size: 601530
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

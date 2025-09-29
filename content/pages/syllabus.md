@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ Unlike the conventional model of academic research and the most prevalent types 
 Background
 ----------
 
-In October 2003, the Lawrence City Council voted unanimously to pass the Reviviendo overlay district proposal, which went into effect immediately. The overlay district, RGI’s first initiative, represents an historic modification to the zoning code that streamlines the approval process for developers and property owners interested in building or expanding structures. This victory is meaningful to the MIT faculty and students who worked to promote the overlay district in Advanced GIS Project course held in spring of 2003. For seven weeks and in conjunction with LCW staff, MCP students designed a neighborhood information system, or sistema de información sobre el vecindario, to publicize information pertaining to the overlay district project. The site is located at {{% resource_link "b992d944-5e8f-4984-9889-34662837a9a7" "Reviviendo - Gateway Initiative" %}}. This course seeks to build on this work.
+In October 2003, the Lawrence City Council voted unanimously to pass the Reviviendo overlay district proposal, which went into effect immediately. The overlay district, RGI’s first initiative, represents an historic modification to the zoning code that streamlines the approval process for developers and property owners interested in building or expanding structures. This victory is meaningful to the MIT faculty and students who worked to promote the overlay district in Advanced GIS Project course held in spring of 2003. For seven weeks and in conjunction with LCW staff, MCP students designed a neighborhood information system, or sistema de información sobre el vecindario, to publicize information pertaining to the overlay district project. The site is located at [Reviviendo - Gateway Initiative](https://player.vimeo.com/video/40269862). This course seeks to build on this work.
 
 Partners
 --------

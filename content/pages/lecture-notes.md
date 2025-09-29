@@ -2,6 +2,8 @@
 content_type: page
 description: Because this course is based on research and projects, there are just
   a few sets of lecture notes. They are available below.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/4150bd9bc378fafe021326300d0786f4_stevenson88_108.pdf
 file_size: 1422184
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

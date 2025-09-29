@@ -3,6 +3,8 @@ content_type: page
 description: Thesis papers by graduates of the Department of Urban Studies and Planning
   are listed below. These papers are optional readings that should be useful in research
   for this class.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
