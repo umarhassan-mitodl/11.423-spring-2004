@@ -6,8 +6,6 @@ description: Part 2 of a thesis authored by a graduate of the Department of Urba
 file: /courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/8b22f49d5020942a42b4633f1881e555_fraser37_66.pdf
 file_size: 2209533
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
